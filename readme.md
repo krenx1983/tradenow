@@ -43,7 +43,7 @@ Broker任意填，填什么就回什么
 <u>tradenow行情前置地址：tcp://121.36.146.182:20004，虽然也可以从tradenow接收实时行情，但是不建议这么做，除非玩TEST等自建合约，否则建议直接使用CTP数据源。从tradenow接收行情，同交易一样需要更换行情dll。</u>
 
 ### **可以关注公众号了解更多信息：**
-![qrcode_for_gh_564e4bf4668c_344](https://user-images.githubusercontent.com/83346523/120094265-e72e1200-c151-11eb-86db-6f1282339707.jpg)
+![qrcode_for_gh_564e4bf4668c_258](https://user-images.githubusercontent.com/83346523/120095274-ad600a00-c157-11eb-8496-7d680bd1f39b.jpg)
 
 **本平台为个人自建平台，希望大家手下留情，不要给太大的压力。**
 
