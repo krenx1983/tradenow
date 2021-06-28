@@ -30,10 +30,9 @@ tradenow是兼容CTP接口的模拟交易平台，一定程度上可替代simnow
 - 90005
 - 90006
 
-### **有其它需要的可以微信联系：**
+### **QQ技术交流群：**
 
-![krenx](https://user-images.githubusercontent.com/83346523/122439877-9da54a00-cfce-11eb-997f-e914b4949bbd.jpg)
-
+<img src="https://user-images.githubusercontent.com/83346523/123422172-63e8ca80-d5f0-11eb-9095-e14accd3b7c0.jpg" alt="QQ群" style="zoom: 45%;" />
 
 ### **特别说明：**
 
