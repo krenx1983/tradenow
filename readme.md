@@ -32,7 +32,7 @@ tradenow是兼容CTP接口的模拟交易平台，一定程度上可替代simnow
 
 ### **QQ技术交流群：**
 
-<img src="https://user-images.githubusercontent.com/83346523/123422172-63e8ca80-d5f0-11eb-9095-e14accd3b7c0.jpg" alt="QQ群" style="zoom: 45%;" />
+![CTP、N视界、Tushare技术交流群聊二维码](https://user-images.githubusercontent.com/83346523/123680930-cc97a780-d87b-11eb-93af-bf1523d79bab.png)
 
 ### **特别说明：**
 
