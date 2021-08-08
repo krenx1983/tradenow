@@ -14,3 +14,10 @@
 
 华鑫证券N视界模拟平台是跟simnow类似的证券模拟平台，采用与CTP类似的开放式API，更多信息请至官网了解：http://www.n-sight.com.cn/
 
+[CTP开源客户端TextTrader](https://github.com/krenx1983/TextTrader)的接入效果：
+![M8$B1FGSOB 3A) T7%PUP P](https://user-images.githubusercontent.com/83346523/128633288-e70f2af9-7106-46a8-bda1-4859c61adf5b.png)
+![KLU1WTF~M{{K2VGA28TX VL](https://user-images.githubusercontent.com/83346523/128633135-5173ffa0-762f-40a6-8cbd-74eae4105e06.png)
+![$`}{JD~M_S {C4Y9T@O`LQ6](https://user-images.githubusercontent.com/83346523/128633324-471c81f8-8b56-47bb-a9f7-c52c7a1843c6.png)
+![Q8U5YDF$4)VSBLX9A5W%U6N](https://user-images.githubusercontent.com/83346523/128633163-c7b532d9-6cbd-4abf-83fa-e9b34d59c112.png)
+![F}X6O 2{E83J4OF8XJ)~4AV](https://user-images.githubusercontent.com/83346523/128633183-cf372e87-fa11-40cb-a34d-bc9c562b2bf7.png)
+![)Y96T659_YW Y_QZHBUW@}Q](https://user-images.githubusercontent.com/83346523/128633169-94942480-c4bf-4e98-b554-2c3496c0956e.png)
